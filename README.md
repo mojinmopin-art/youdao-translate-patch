@@ -77,3 +77,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 *Detailed compatibility analysis and technical documentation available at [youdao-app.org](https://youdao-app.org)*
+
+## Related Projects
+- [Immersive Translate Patch](https://github.com/mojinmopin-art/immersive-translate-en-zh-patch) - Bilingual translation extension fix
+- [Translate Input Method](https://github.com/mojinmopin-art/translate-input-method) - Multilingual typing tool
+- [OpenClaw AI](https://github.com/mojinmopin-art/openclaw-ai-assistant) - AI writing and translation assistant
